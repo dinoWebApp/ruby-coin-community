@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  market_code: MyString
+  currency: MyString
+  korean_name: MyString
+  english_name: MyString
+  prev_closing_price: 9.99
+  opening_price: 9.99
+  high_price: 9.99
+  low_price: 9.99
+  trade_price: 9.99
+  signed_change_price: 9.99
+  signed_change_rate: 9.99
+  trade_datetime: MyString
+
+two:
+  market_code: MyString
+  currency: MyString
+  korean_name: MyString
+  english_name: MyString
+  prev_closing_price: 9.99
+  opening_price: 9.99
+  high_price: 9.99
+  low_price: 9.99
+  trade_price: 9.99
+  signed_change_price: 9.99
+  signed_change_rate: 9.99
+  trade_datetime: MyString

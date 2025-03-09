@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  user_name: MyString
+  password: MyString
+  is_member: false
+  coin_code: MyString
+  coin_name: MyString
+  views: 1
+  likes: 1
+  ip: MyString
+  timestamp: MyString
+
+two:
+  title: MyString
+  user_name: MyString
+  password: MyString
+  is_member: false
+  coin_code: MyString
+  coin_name: MyString
+  views: 1
+  likes: 1
+  ip: MyString
+  timestamp: MyString
